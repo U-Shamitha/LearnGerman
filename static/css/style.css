@@ -1,0 +1,31 @@
+/* Word card layout */
+.word-card {
+    min-width: 220px;
+    max-width: 250px;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+}
+
+/* German word styling */
+.german-word {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 3px;
+}
+
+/* English meaning styling */
+.english-meaning {
+    color: #198754; /* Bootstrap success green */
+    font-size: 0.95em;
+    margin-bottom: 3px;
+}
+
+/* Phonetic text styling */
+.phonetic {
+    font-size: 0.9em;
+    color: #6c757d; /* Bootstrap secondary */
+    margin-bottom: 5px;
+}
